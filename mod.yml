@@ -1,0 +1,607 @@
+title: AIO Recolors
+description: Recolors Sora's attack animations for his base form and drive forms!
+assets:
+#PC ONLY
+- name: remastered\obj\P_EX100.a.us\-0.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM.a.us\-0.dds
+  - name: remastered\obj\P_EX100_XM.a.us\-0.dds
+  - name: remastered\obj\P_EX100_TR.a.us\-0.dds
+  - name: remastered\obj\P_EX100_AL_CARPET.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Base Sora/Default/-0.dds
+- name: remastered\obj\P_EX100.a.us\-1.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM.a.us\-1.dds
+  - name: remastered\obj\P_EX100_XM.a.us\-1.dds
+  - name: remastered\obj\P_EX100_TR.a.us\-1.dds
+  - name: remastered\obj\P_EX100_AL_CARPET.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Base Sora/Default/-1.dds
+- name: remastered\obj\P_EX100.a.us\-2.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM.a.us\-2.dds
+  - name: remastered\obj\P_EX100_XM.a.us\-2.dds
+  - name: remastered\obj\P_EX100_TR.a.us\-2.dds
+  - name: remastered\obj\P_EX100_AL_CARPET.a.us\-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Base Sora/Default/-2.dds
+- name: remastered\obj\P_EX100.a.us\-3.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM.a.us\-3.dds
+  - name: remastered\obj\P_EX100_XM.a.us\-3.dds
+  - name: remastered\obj\P_EX100_TR.a.us\-3.dds
+  - name: remastered\obj\P_EX100_AL_CARPET.a.us\-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Base Sora/Default/-3.dds
+- name: remastered\obj\P_EX100.a.us\-4.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM.a.us\-4.dds
+  - name: remastered\obj\P_EX100_XM.a.us\-4.dds
+  - name: remastered\obj\P_EX100_TR.a.us\-4.dds
+  - name: remastered\obj\P_EX100_AL_CARPET.a.us\-4.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Base Sora/Default/-4.dds
+- name: remastered\obj\P_EX100.a.us\-5.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM.a.us\-5.dds
+  - name: remastered\obj\P_EX100_XM.a.us\-5.dds
+  - name: remastered\obj\P_EX100_TR.a.us\-5.dds
+  - name: remastered\obj\P_EX100_AL_CARPET.a.us\-5.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Base Sora/Default/-5.dds
+- name: remastered\obj\P_EX100.a.us\-6.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM.a.us\-6.dds
+  - name: remastered\obj\P_EX100_XM.a.us\-6.dds
+  - name: remastered\obj\P_EX100_TR.a.us\-6.dds
+  - name: remastered\obj\P_EX100_AL_CARPET.a.us\-6.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Base Sora/Default/-6.dds
+- name: remastered\obj\P_EX100.a.us\-7.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM.a.us\-7.dds
+  - name: remastered\obj\P_EX100_XM.a.us\-7.dds
+  - name: remastered\obj\P_EX100_TR.a.us\-7.dds
+  - name: remastered\obj\P_EX100_AL_CARPET.a.us\-7.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Base Sora/Default/-7.dds
+- name: remastered\obj\P_EX100_BTLF.a.us\-0.dds
+  multi:
+  - name: remastered\obj\P_EX100_BTLF_NM.a.us\-0.dds
+  - name: remastered\obj\P_EX100_BTLF_XM.a.us\-0.dds
+  - name: remastered\obj\P_EX100_BTLF_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Valor Form/Default/-0.dds
+- name: remastered\obj\P_EX100_BTLF.a.us\-1.dds
+  multi:
+  - name: remastered\obj\P_EX100_BTLF_NM.a.us\-1.dds
+  - name: remastered\obj\P_EX100_BTLF_XM.a.us\-1.dds
+  - name: remastered\obj\P_EX100_BTLF_TR.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Valor Form/Default/-1.dds
+- name: remastered\obj\P_EX100_BTLF.a.us\-2.dds
+  multi:
+  - name: remastered\obj\P_EX100_BTLF_NM.a.us\-2.dds
+  - name: remastered\obj\P_EX100_BTLF_XM.a.us\-2.dds
+  - name: remastered\obj\P_EX100_BTLF_TR.a.us\-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Valor Form/Default/-2.dds
+- name: remastered\obj\P_EX100_BTLF.a.us\-3.dds
+  multi:
+  - name: remastered\obj\P_EX100_BTLF_NM.a.us\-3.dds
+  - name: remastered\obj\P_EX100_BTLF_XM.a.us\-3.dds
+  - name: remastered\obj\P_EX100_BTLF_TR.a.us\-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Valor Form/Default/-3.dds
+- name: remastered\obj\P_EX100_MAGF.a.us\-0.dds
+  multi:
+  - name: remastered\obj\P_EX100_MAGF_NM.a.us\-0.dds
+  - name: remastered\obj\P_EX100_MAGF_XM.a.us\-0.dds
+  - name: remastered\obj\P_EX100_MAGF_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Wisdom Form/Default/-0.dds
+- name: remastered\obj\P_EX100_MAGF.a.us\-1.dds
+  multi:
+  - name: remastered\obj\P_EX100_MAGF_NM.a.us\-1.dds
+  - name: remastered\obj\P_EX100_MAGF_XM.a.us\-1.dds
+  - name: remastered\obj\P_EX100_MAGF_TR.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Wisdom Form/Default/-1.dds
+- name: remastered\obj\P_EX100_KH1F.a.us\-0.dds
+  multi:
+  - name: remastered\obj\P_EX100_KH1F_NM.a.us\-0.dds
+  - name: remastered\obj\P_EX100_KH1F_XM.a.us\-0.dds
+  - name: remastered\obj\P_EX100_KH1F_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Limit Form/Default/-0.dds
+- name: remastered\obj\P_EX100_KH1F.a.us\-1.dds
+  multi:
+  - name: remastered\obj\P_EX100_KH1F_NM.a.us\-1.dds
+  - name: remastered\obj\P_EX100_KH1F_XM.a.us\-1.dds
+  - name: remastered\obj\P_EX100_KH1F_TR.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Limit Form/Default/-1.dds
+- name: remastered\obj\P_EX100_KH1F.a.us\-2.dds
+  multi:
+  - name: remastered\obj\P_EX100_KH1F_NM.a.us\-2.dds
+  - name: remastered\obj\P_EX100_KH1F_XM.a.us\-2.dds
+  - name: remastered\obj\P_EX100_KH1F_TR.a.us\-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Limit Form/Default/-2.dds
+- name: remastered\obj\P_EX100_KH1F.a.us\-3.dds
+  multi:
+  - name: remastered\obj\P_EX100_KH1F_NM.a.us\-3.dds
+  - name: remastered\obj\P_EX100_KH1F_XM.a.us\-3.dds
+  - name: remastered\obj\P_EX100_KH1F_TR.a.us\-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Limit Form/Default/-3.dds
+- name: remastered\obj\P_EX100_KH1F.a.us\-4.dds
+  multi:
+  - name: remastered\obj\P_EX100_KH1F_NM.a.us\-4.dds
+  - name: remastered\obj\P_EX100_KH1F_XM.a.us\-4.dds
+  - name: remastered\obj\P_EX100_KH1F_TR.a.us\-4.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Limit Form/Default/-4.dds
+- name: remastered\obj\P_EX100_KH1F.a.us\-5.dds
+  multi:
+  - name: remastered\obj\P_EX100_KH1F_NM.a.us\-5.dds
+  - name: remastered\obj\P_EX100_KH1F_XM.a.us\-5.dds
+  - name: remastered\obj\P_EX100_KH1F_TR.a.us\-5.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Limit Form/Default/-5.dds
+- name: remastered\obj\P_EX100_KH1F.a.us\-6.dds
+  multi:
+  - name: remastered\obj\P_EX100_KH1F_NM.a.us\-6.dds
+  - name: remastered\obj\P_EX100_KH1F_XM.a.us\-6.dds
+  - name: remastered\obj\P_EX100_KH1F_TR.a.us\-6.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Limit Form/Default/-6.dds
+- name: remastered\obj\P_EX100_KH1F.a.us\-7.dds
+  multi:
+  - name: remastered\obj\P_EX100_KH1F_NM.a.us\-7.dds
+  - name: remastered\obj\P_EX100_KH1F_XM.a.us\-7.dds
+  - name: remastered\obj\P_EX100_KH1F_TR.a.us\-7.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Limit Form/Default/-7.dds
+- name: remastered\obj\P_EX100_KH1F.a.us\-8.dds
+  multi:
+  - name: remastered\obj\P_EX100_KH1F_NM.a.us\-8.dds
+  - name: remastered\obj\P_EX100_KH1F_XM.a.us\-8.dds
+  - name: remastered\obj\P_EX100_KH1F_TR.a.us\-8.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Limit Form/Default/-8.dds
+- name: remastered\obj\P_EX100_TRIF.a.us\-0.dds
+  multi:
+  - name: remastered\obj\P_EX100_TRIF_NM.a.us\-0.dds
+  - name: remastered\obj\P_EX100_TRIF_XM.a.us\-0.dds
+  - name: remastered\obj\P_EX100_TRIF_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Master Form/Default/-0.dds
+- name: remastered\obj\P_EX100_TRIF.a.us\-1.dds
+  multi:
+  - name: remastered\obj\P_EX100_TRIF_NM.a.us\-1.dds
+  - name: remastered\obj\P_EX100_TRIF_XM.a.us\-1.dds
+  - name: remastered\obj\P_EX100_TRIF_TR.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Master Form/Default/-1.dds
+- name: remastered\obj\P_EX100_TRIF.a.us\-2.dds
+  multi:
+  - name: remastered\obj\P_EX100_TRIF_NM.a.us\-2.dds
+  - name: remastered\obj\P_EX100_TRIF_XM.a.us\-2.dds
+  - name: remastered\obj\P_EX100_TRIF_TR.a.us\-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Master Form/Default/-2.dds
+- name: remastered\obj\P_EX100_TRIF.a.us\-3.dds
+  multi:
+  - name: remastered\obj\P_EX100_TRIF_NM.a.us\-3.dds
+  - name: remastered\obj\P_EX100_TRIF_XM.a.us\-3.dds
+  - name: remastered\obj\P_EX100_TRIF_TR.a.us\-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Master Form/Default/-3.dds
+- name: remastered\obj\P_EX100_TRIF.a.us\-4.dds
+  multi:
+  - name: remastered\obj\P_EX100_TRIF_NM.a.us\-4.dds
+  - name: remastered\obj\P_EX100_TRIF_XM.a.us\-4.dds
+  - name: remastered\obj\P_EX100_TRIF_TR.a.us\-4.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Master Form/Default/-4.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-0.dds
+  multi:
+  - name: remastered\obj\P_EX100_ULTF_NM.a.us\-0.dds
+  - name: remastered\obj\P_EX100_ULTF_XM.a.us\-0.dds
+  - name: remastered\obj\P_EX100_ULTF_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Final Form/Default/-0.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-1.dds
+  multi:
+  - name: remastered\obj\P_EX100_ULTF_NM.a.us\-1.dds
+  - name: remastered\obj\P_EX100_ULTF_XM.a.us\-1.dds
+  - name: remastered\obj\P_EX100_ULTF_TR.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Final Form/Default/-1.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-2.dds
+  multi:
+  - name: remastered\obj\P_EX100_ULTF_NM.a.us\-2.dds
+  - name: remastered\obj\P_EX100_ULTF_XM.a.us\-2.dds
+  - name: remastered\obj\P_EX100_ULTF_TR.a.us\-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Final Form/Default/-2.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-3.dds
+  multi:
+  - name: remastered\obj\P_EX100_ULTF_NM.a.us\-3.dds
+  - name: remastered\obj\P_EX100_ULTF_XM.a.us\-3.dds
+  - name: remastered\obj\P_EX100_ULTF_TR.a.us\-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Final Form/Default/-3.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-4.dds
+  multi:
+  - name: remastered\obj\P_EX100_ULTF_NM.a.us\-4.dds
+  - name: remastered\obj\P_EX100_ULTF_XM.a.us\-4.dds
+  - name: remastered\obj\P_EX100_ULTF_TR.a.us\-4.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Final Form/Default/-4.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-5.dds
+  multi:
+  - name: remastered\obj\P_EX100_ULTF_NM.a.us\-5.dds
+  - name: remastered\obj\P_EX100_ULTF_XM.a.us\-5.dds
+  - name: remastered\obj\P_EX100_ULTF_TR.a.us\-5.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Final Form/Default/-5.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-6.dds
+  multi:
+  - name: remastered\obj\P_EX100_ULTF_NM.a.us\-6.dds
+  - name: remastered\obj\P_EX100_ULTF_XM.a.us\-6.dds
+  - name: remastered\obj\P_EX100_ULTF_TR.a.us\-6.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Final Form/Default/-6.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-7.dds
+  multi:
+  - name: remastered\obj\P_EX100_ULTF_NM.a.us\-7.dds
+  - name: remastered\obj\P_EX100_ULTF_XM.a.us\-7.dds
+  - name: remastered\obj\P_EX100_ULTF_TR.a.us\-7.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Final Form/Default/-7.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-8.dds
+  multi:
+  - name: remastered\obj\P_EX100_ULTF_NM.a.us\-8.dds
+  - name: remastered\obj\P_EX100_ULTF_XM.a.us\-8.dds
+  - name: remastered\obj\P_EX100_ULTF_TR.a.us\-8.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Final Form/Default/-8.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-9.dds
+  multi:
+  - name: remastered\obj\P_EX100_ULTF_NM.a.us\-9.dds
+  - name: remastered\obj\P_EX100_ULTF_XM.a.us\-9.dds
+  - name: remastered\obj\P_EX100_ULTF_TR.a.us\-9.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Final Form/Default/-9.dds
+- name: remastered\obj\P_EX100_HTLF.a.us\-0.dds
+  multi:
+  - name: remastered\obj\P_EX100_HTLF_NM.a.us\-0.dds
+  - name: remastered\obj\P_EX100_HTLF_XM.a.us\-0.dds
+  - name: remastered\obj\P_EX100_HTLF_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Anti Form/Default/-0.dds
+- name: remastered\obj\P_EX100_HTLF.a.us\-1.dds
+  multi:
+  - name: remastered\obj\P_EX100_HTLF_NM.a.us\-1.dds
+  - name: remastered\obj\P_EX100_HTLF_XM.a.us\-1.dds
+  - name: remastered\obj\P_EX100_HTLF_TR.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Anti Form/Default/-1.dds
+- name: remastered\obj\P_EX100_HTLF.a.us\-2.dds
+  multi:
+  - name: remastered\obj\P_EX100_HTLF_NM.a.us\-2.dds
+  - name: remastered\obj\P_EX100_HTLF_XM.a.us\-2.dds
+  - name: remastered\obj\P_EX100_HTLF_TR.a.us\-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Anti Form/Default/-2.dds
+- name: remastered\magic\FIRE_1.mag\-0.dds
+  multi:
+  - name: remastered\magic\FIRE_1lk.mag\-0.dds
+  - name: remastered\magic\FIRE_2lk.mag\-0.dds
+  - name: remastered\magic\FIRE_2.mag\-0.dds
+  - name: remastered\magic\fire1.mag\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-0.dds
+- name: remastered\magic\FIRE_3.mag\-0.dds
+  multi:
+  - name: remastered\magic\FIRE_3lk.mag\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-1.dds
+- name: remastered\magic\BLIZZARD_1.mag\-0.dds
+  multi:
+  - name: remastered\magic\BLIZZARD_1lk.mag\-0.dds
+  - name: remastered\magic\BLIZZARD_2lk.mag\-1.dds
+  - name: remastered\magic\LK_BLIZZARD_1.mag\-1.dds
+  - name: remastered\magic\BLIZZARD_2.mag\-1.dds
+  - name: remastered\magic\blizzard1.mag\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-2.dds
+- name: remastered\magic\BLIZZARD_3.mag\-0.dds
+  multi:
+  - name: remastered\magic\BLIZZARD_3lk.mag\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-3.dds
+- name: remastered\magic\BLIZZARD_3.mag\-1.dds
+  multi:
+  - name: remastered\magic\BLIZZARD_3lk.mag\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-4.dds
+- name: remastered\magic\THUNDER_1.mag\-0.dds
+  multi:
+  - name: remastered\magic\THUNDER_1lk.mag\-0.dds
+  - name: remastered\magic\THUNDER_2lk.mag\-0.dds
+  - name: remastered\magic\THUNDER_2.mag\-0.dds
+  - name: remastered\magic\thunder1.mag\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-5.dds
+- name: remastered\magic\THUNDER_1.mag\-1.dds
+  multi:
+  - name: remastered\magic\THUNDER_1lk.mag\-1.dds
+  - name: remastered\magic\THUNDER_2lk.mag\-1.dds
+  - name: remastered\magic\THUNDER_2.mag\-1.dds
+  - name: remastered\magic\thunder1.mag\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-6.dds
+- name: remastered\magic\THUNDER_3.mag\-0.dds
+  multi:
+  - name: remastered\magic\THUNDER_3lk.mag\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-7.dds
+- name: remastered\magic\THUNDER_3.mag\-1.dds
+  multi:
+  - name: remastered\magic\THUNDER_3lk.mag\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-8.dds
+- name: remastered\magic\THUNDER_3.mag\-2.dds
+  multi:
+  - name: remastered\magic\THUNDER_3lk.mag\-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-9.dds
+- name: remastered\magic\THUNDER_3.mag\-3.dds
+  multi:
+  - name: remastered\magic\THUNDER_3lk.mag\-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-10.dds
+- name: remastered\magic\THUNDER_3.mag\-4.dds
+  multi:
+  - name: remastered\magic\THUNDER_3lk.mag\-4.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-11.dds
+- name: remastered\magic\THUNDER_3.mag\-5.dds
+  multi:
+  - name: remastered\magic\THUNDER_3lk.mag\-5.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-12.dds
+- name: remastered\magic\THUNDER_3.mag\-6.dds
+  multi:
+  - name: remastered\magic\THUNDER_3lk.mag\-6.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-13.dds
+- name: remastered\magic\CURE_1.mag\-0.dds
+  multi:
+  - name: remastered\magic\cure1.mag\-0.dds
+  - name: remastered\magic\CURE_1lk.mag\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-14.dds
+- name: remastered\magic\CURE_2.mag\-0.dds
+  multi:
+  - name: remastered\magic\CURE_2lk.mag\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-15.dds
+- name: remastered\magic\CURE_2.mag\-1.dds
+  multi:
+  - name: remastered\magic\CURE_2lk.mag\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-16.dds
+- name: remastered\magic\CURE_3.mag\-0.dds
+  multi:
+  - name: remastered\magic\CURE_3lk.mag\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-17.dds
+- name: remastered\magic\CURE_3.mag\-1.dds
+  multi:
+  - name: remastered\magic\CURE_3lk.mag\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-18.dds
+- name: remastered\magic\CURE_3.mag\-2.dds
+  multi:
+  - name: remastered\magic\CURE_3lk.mag\-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-19.dds
+- name: remastered\magic\REFLECT_1.mag\-0.dds
+  multi:
+  - name: remastered\magic\reflect1.mag\-0.dds
+  - name: remastered\magic\REFLECT_1lk.mag\-0.dds
+  - name: remastered\magic\REFLECT_2lk.mag\-0.dds
+  - name: remastered\magic\REFLECT_3lk.mag\-0.dds
+  - name: remastered\magic\REFLECT_2.mag\-0.dds
+  - name: remastered\magic\REFLECT_3.mag\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-20.dds
+- name: remastered\magic\REFLECT_1.mag\-1.dds
+  multi:
+  - name: remastered\magic\REFLECT_1lk.mag\-1.dds
+  - name: remastered\magic\REFLECT_2lk.mag\-1.dds
+  - name: remastered\magic\REFLECT_3lk.mag\-1.dds
+  - name: remastered\magic\REFLECT_2.mag\-1.dds
+  - name: remastered\magic\REFLECT_3.mag\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-21.dds
+- name: remastered\magic\REFLECT_1.mag\-2.dds
+  multi:
+  - name: remastered\magic\REFLECT_1lk.mag\-2.dds
+  - name: remastered\magic\REFLECT_2lk.mag\-2.dds
+  - name: remastered\magic\REFLECT_3lk.mag\-2.dds
+  - name: remastered\magic\REFLECT_2.mag\-2.dds
+  - name: remastered\magic\REFLECT_3.mag\-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-22.dds
+- name: remastered\magic\MAGNET_1.mag\-0.dds
+  multi:
+  - name: remastered\magic\magnet1.mag\-0.dds
+  - name: remastered\magic\MAGNET_1lk.mag\-0.dds
+  - name: remastered\magic\MAGNET_2lk.mag\-0.dds
+  - name: remastered\magic\MAGNET_3lk.mag\-0.dds
+  - name: remastered\magic\MAGNET_3lk.mag\-1.dds
+  - name: remastered\magic\MAGNET_2.mag\-0.dds
+  - name: remastered\magic\MAGNET_3.mag\-0.dds
+  - name: remastered\magic\MAGNET_3.mag\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-23.dds
+- name: remastered\magic\MAGNET_1.mag\-1.dds
+  multi:
+  - name: remastered\magic\magnet1.mag\-1.dds
+  - name: remastered\magic\MAGNET_1lk.mag\-1.dds
+  - name: remastered\magic\MAGNET_2lk.mag\-1.dds
+  - name: remastered\magic\MAGNET_3lk.mag\-2.dds
+  - name: remastered\magic\MAGNET_3lk.mag\-3.dds
+  - name: remastered\magic\MAGNET_2.mag\-1.dds
+  - name: remastered\magic\MAGNET_3.mag\-2.dds
+  - name: remastered\magic\MAGNET_3.mag\-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-24.dds
+- name: remastered\effect\texcommon.dpd\-11.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-25.dds
+- name: remastered\effect\texcommon.dpd\-10.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures/Magic/Default/-26.dds
